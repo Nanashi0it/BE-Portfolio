@@ -123,12 +123,6 @@ html {
     text-align: center;
     overflow-x: auto;
     white-space: nowrap;
-}
-
-.project-list:hover {
-    text-align: center;
-    overflow-x: auto;
-    white-space: nowrap;
     background-color: #aaaaaa;
     border-radius: 2rem;
 }
